@@ -5,11 +5,11 @@
 
 @font-face {
   font-family: mainFont;
-  src: url(/assets/Rabar_021.ttf);
+  src: url(./assets/Rabar_021.ttf);
 }
 @font-face {
   font-family: secondaryFont;
-  src: url(/assets/Rabar_022.ttf);
+  src: url(./assets/Rabar_022.ttf);
 }
 /* ===== Scrollbar CSS ===== */
 /* Firefox */
